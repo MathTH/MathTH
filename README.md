@@ -8,7 +8,7 @@
 ![MathTH GitHub stats](https://github-readme-stats.vercel.app/api?username=MathTH&show_icons=true&theme=radical)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Tecnologias+que+eu+uso+no+meu+dia+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Tecnologias+que+eu+uso+no+meu+dia.)](https://git.io/typing-svg)
 
 <div style="display: inline_block"><br/>
 <img align="center"  alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
