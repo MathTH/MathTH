@@ -7,14 +7,6 @@
 
 ![MathTH GitHub stats](https://github-readme-stats.vercel.app/api?username=MathTH&show_icons=true&theme=radical)
 
-![MathTH GitHub stats](https://github-readme-stats.vercel.app/api?username=MathTH&show_icons=true&theme=radical)
-
-<a href="https://github.com/MathTH">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathTH&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Tecnologias+que+eu+uso+no+meu+dia.)](https://git.io/typing-svg)
 
 
@@ -22,10 +14,17 @@
 <div style="display: inline_block">
 <img align="center"  alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
 <img align="center"  alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center"  alt="html5" src="https://img.shields.io/badge/JAVASCRIPT-d1ed1c?style=for-the-badge&logo=css3&logoColor=yellow"/> 
- </div>
+<img align="center"  alt="html5" src="https://img.shields.io/badge/JavaScript-fcf914?style=for-the-badge&logo=javascript&logoColor=white"/> 
+ </div> <br>
+ 
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Contato:)](https://git.io/typing-svg)
+<div style="display: inline_block">
+<a href="https://api.whatsapp.com/send?phone=5517981777483"><img align="center"  alt="html5" src="https://img.shields.io/badge/WhatsApp-1ce622?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href = "mailto:contato@seu-usuário-aqui"> <img align="center"  alt="html5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/matheus-ferreira-5861911b5/" target="_blank"> <img align="center"  alt="html5" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-
+</div>
 
 
 <br>
