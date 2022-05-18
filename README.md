@@ -17,6 +17,8 @@
 <img align="center"  alt="html5" src="https://img.shields.io/badge/JavaScript-fcf914?style=for-the-badge&logo=javascript&logoColor=white"/> 
  </div> <br>
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathTH&layout=compact&show_icons=true&theme=radical)](https://github.com/MathTH/github-readme-stats)
+ 
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Contato:)](https://git.io/typing-svg)
 <div style="display: inline_block">
