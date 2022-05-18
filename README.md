@@ -20,7 +20,7 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Contato:)](https://git.io/typing-svg)
 <div style="display: inline_block">
-<a href="https://api.whatsapp.com/send?phone=5517981777483"><img align="center"  alt="html5" src="https://img.shields.io/badge/WhatsApp-1ce622?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://api.whatsapp.com/send?phone=5517981777483" target="_blank" ><img align="center"  alt="html5" src="https://img.shields.io/badge/WhatsApp-1ce622?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/></a>
 <a href = "mailto:contato@seu-usuário-aqui"> <img align="center"  alt="html5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/matheus-ferreira-5861911b5/" target="_blank"> <img align="center"  alt="html5" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
