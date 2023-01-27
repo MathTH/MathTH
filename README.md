@@ -21,7 +21,6 @@
 <div style="display: inline_block">
 <img align="center"  alt="html5" src="https://img.shields.io/badge/CSharp-d514e3?style=for-the-badge&logo=csharp&logoColor=white"/> 
 <img align="center"  alt="html5" src="https://img.shields.io/badge/Asp.Net-1374cf?style=for-the-badge&logo=asp.net&logoColor=white"/>
-<img align="center"  alt="html5" src="https://img.shields.io/badge/JavaScript-fcf914?style=for-the-badge&logo=javascript&logoColor=white"/> 
  </div> <br>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathTH&layout=compact&show_icons=true&theme=radical)](https://github.com/MathTH/github-readme-stats)
